@@ -11,7 +11,7 @@ Este é a base para se te um projeto com um excelente design orientado a objeto,
 <label> Uma primícias do DIP (Dependency Inversion Principle) é:</label>
 <ul>
 <li>Dependa de abstrações e não de implementação.<br>
-    <h4> princípio afirma que:</h4></li>
+<h4>O princípio afirma que:</h4></li>
 
 <li>Os módulos de alto nível não devem depender dos módulos de baixo nível. Ambos devem depender de abstrações.</li>
 <li>Abstrações não devem depender de detalhes. Os detalhes devem depender de abstrações.</li>
