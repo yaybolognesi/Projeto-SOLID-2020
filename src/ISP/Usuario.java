@@ -56,18 +56,4 @@ public abstract class Usuario extends CrudUsuario {
 		this.tipoUsuario = tipoUsuario;
 	}
 	
-//	public boolean setLogin(Usuario usuario) {
-//		if(usuario.getSenha() == senhaLoja) {
-//			System.out.print("Usuário logado");
-//			return true;
-//		}else {
-//			System.out.print("Senha errada");
-//			return false;
-//		}
-//	}
-//	
-//	public void logout(Usuario usuario) {
-//		System.out.print("Usuário deslogado");
-//	}
-	
 }
