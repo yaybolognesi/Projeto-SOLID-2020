@@ -1,6 +1,6 @@
 package ISP;
 
-public class Usuario extends CrudUsuario {
+public abstract class Usuario extends CrudUsuario {
 	
 	//Classe responsável só por construir o objeto Usuario
 	
