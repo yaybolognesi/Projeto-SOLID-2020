@@ -1,0 +1,8 @@
+O começo!
+O princípio da Substituição de Liskov leva o nome da sua criadora Barbara Liskov, que introduziu o conceito deste princípio em uma conferência em 1987 e posteriormente, em 1994 no artigo Family Values: A Behavioral Notion of Subtyping com a parceria de Jeannette Wing. 
+
+O que isso quer dizer afinal?
+Significa dizer que classes derivadas devem poder substituídas por suas classes base e que classes base podem ser substituídas por qualquer uma das suas subclasses.   Uma subclasse deve sobrescrever os métodos da superclasse de forma que a funcionalidade do ponto de vista do cliente continue a mesma.
+
+Conclusão
+O LSP tem como objetivo manter o funcionamento do código íntegro no processo de acoplamento de funcionalidades na aplicação. Esse princípio é quebrado em situações nas quais uma subclasse deixa de herdar um comportamento da classe pai, seja sobrescrevendo um método e lançando uma exceção ou não tirando proveito de todas as funcionalidades dela. Chamamos esse cenário de Refused Bequest.
