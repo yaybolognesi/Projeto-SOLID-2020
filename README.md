@@ -4,7 +4,7 @@
 
 <h1>DIP — Dependency Inversion Principle:</h1>
 <div>
-<p>Depois de estudarmos os demais princípios da metodologia S.O.L.I.D, vamos agora, por fim, entender o último princípio o “D - DIP” de Princípio da inversão de dependên-cia (Dependency Inversion Principle).
+<p>Depois de estudarmos os demais princípios da metodologia S.O.L.I.D, vamos agora, por fim, entender o último princípio o “D - DIP” de Princípio da inversão de dependência (Dependency Inversion Principle).
 Este é a base para se te um projeto com um excelente design orientado a objeto, volta-do o domínio e uma arquitetura flexível.<p>
 <div>
 
